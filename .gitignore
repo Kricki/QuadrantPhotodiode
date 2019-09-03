@@ -1,6 +1,9 @@
-
 \.idea/
 
 dev/
 
 quadrantphotodiode/__pycache__/
+
+\.ipynb_checkpoints/
+
+examples/\.ipynb_checkpoints/
